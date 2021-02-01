@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [01/Feb/2021:13:58:55 +0600] "GET /com.test HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [01/Feb/2021:13:58:55 +0600] "GET /com.test/ HTTP/1.1" 200 470 http-bio-8080-exec-2 11
+0:0:0:0:0:0:0:1 - - [01/Feb/2021:13:58:57 +0600] "POST /com.test/SelectCar HTTP/1.1" 200 141 http-bio-8080-exec-3 1023
+0:0:0:0:0:0:0:1 - - [01/Feb/2021:13:58:57 +0600] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [01/Feb/2021:13:59:36 +0600] "POST /com.test/SelectCar HTTP/1.1" 200 141 http-bio-8080-exec-4 2
